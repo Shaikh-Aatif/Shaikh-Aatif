@@ -17,4 +17,4 @@ Hey there! 👋 I'm Aatif, a passionate developer with a creative twist. My jour
 
 Connect with me and let's collaborate on shaping the digital landscape together. 🌟
 
-[![My Skills](https://skillicons.dev/icons?i=unreal,unity,kotlin,flutter,dart,cs,blender,androidstudio,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unreal,unity,kotlin,flutter,dart,cs,blender,androidstudio,cpp)](https://skillicons.dev)
