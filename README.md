@@ -17,3 +17,4 @@ Hey there! 👋 I'm Aatif, a passionate developer with a creative twist. My jour
 
 Connect with me and let's collaborate on shaping the digital landscape together. 🌟
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
