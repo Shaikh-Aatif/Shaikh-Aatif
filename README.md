@@ -19,7 +19,7 @@ Connect with me and let's collaborate on shaping the digital landscape together.
 
 [![My Skills](https://skillicons.dev/icons?i=unreal,unity,kotlin,flutter,dart,cs,blender,androidstudio,)](https://skillicons.dev)
 
-<div align="center">  
+<div align="left">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
